@@ -1,0 +1,134 @@
+{
+	"level_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:mercury_orbit",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:glacio",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:venus",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:glacio_orbit",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:mars",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:mercury",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:venus_orbit",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:moon",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:moon_orbit",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:mars_orbit",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:earth_orbit",
+			"seed": -4373656035356588338
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:mercury_orbit",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:glacio",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:venus",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:glacio_orbit",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:mars",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:mercury",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:venus_orbit",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:moon",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:moon_orbit",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:mars_orbit",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": -4373656035356588338
+		},
+		{
+			"dim": "ad_astra:earth_orbit",
+			"seed": -4373656035356588338
+		}
+	]
+}

@@ -1,0 +1,3476 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_flight": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/tablet_ritual_repulsion": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/archwood_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_fertility": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_animal_summon": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/cracked_sourcestone_wall_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/green_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/trapdoors/magebloom_carpet": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_brazier": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_mycelium": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/stripped_green_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/spike_to_arrow": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/void_prism": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/relay": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_burrowing": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_overgrowth": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/alt_blossom": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_trapdoor_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sunrise_2": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/reversed_polished_sourcestone_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_diorite": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/clear_deny": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/moonfall_2": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/spell_prism": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "seadwellers:adv_root": {
+    "criteria": {
+      "adv_root": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/polished_source_sconce": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_alternating_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_sunrise": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wipe_spell_parchment": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wixie_hat": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/source_berry_pie": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/archwood_fence_gate": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/reversed_sourcestone_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_forestation": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_cloudshaping": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/soul_magelight_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/blank_parchment": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/archwood_fence": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/archwood_planks": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/potion_jar": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_disintegration": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/sourcestone_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/warp_scroll": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/starbuncle_shades": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/archwood_magelight_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/mob_jar": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_flourishing_sapling": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/trapdoors/polished_sourcestone_trapdoor": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_warping": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/chains/sourcestone_chain": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/arcane_core": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_containment": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_flowering": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_tuff": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/purple_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sconce": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/clear_xp_jar": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_gravity": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wipe_starby_shard": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/chains/reversed_sourcestone_chain": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/alchemical_sourcelink": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/source_berry_roll": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/falseweave": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/scribes_table": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_calcite": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/archwood_trapdoor": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/green_sbed": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/horn_to_bonemeal": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/revert/cracked_polished_sourcestone_large_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/worn_notebook": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/potion_jar_empty": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/fire_essence_to_magma_block": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/source_gem_block": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_wall_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/archwood_pressure_plate": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/archwood_to_chest": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/rotating_spell_turret": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_grass_block": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/greater_experience_gem": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourceberry_sack_to_bush": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/chains/reversed_polished_sourcestone_chain": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/archwood_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/enchanting_apparatus": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/orange_sbed": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/mycelial_sourcelink": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/polished_sourcestone_button_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/water_essence_to_bucket": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_6": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_5": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_8": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_7": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_9": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_2": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_1": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_4": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_3": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/revert/cracked_polished_sourcestone_small_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_button_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_sconce": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/cracked_polished_sourcestone_wall_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/magelight_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ring_of_potential": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/magebloom_fiber": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/tablet_ritual_tesla_coil": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_door_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_instrumentum:recipes/misc/copy_paste_spell_scroll": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_mosaic_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_challenge": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_alternating_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/alteration_table": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/experience_gem": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/conjuration_essence_to_end_stone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/yellow_sbed": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/spore_blossom_up": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/magebloom_block_to_magebloom": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_large_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/polished_sourcestone_wall_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/dull_trinket": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/spike_to_dye": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/rotating_turret_to_basic_spell_turret": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_moonfall": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/polished_sconce": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/magelight_torch": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/platform_to_pedestal": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/buttons/sourcestone_button": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/ritual/ritual_locate_structure": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/imbuement_chamber": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/yellow_archwood": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/archwood_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_binding": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/revert/cracked_polished_sourcestone_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wing_to_leather": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/runic_chalk": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/chains/golden_chain": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/blue_sbed": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_restoration": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/clear_advanced_dominion_wand": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_19": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_18": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_11": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_10": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_13": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_12": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_15": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_14": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_17": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_16": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_sanctuary": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/doors/sourcestone_door": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/archwood_button": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/polished_sourcestone_door_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/archwood_chest": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_20": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/sourcestone_21": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/annotated_codex": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/trapdoors/sourcestone_trapdoor": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/volcanic_sourcelink": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourceberry_to_purple": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/source_gem_block_2": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/arcane_platform": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/redstone/advanced_prism": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/archwood_door": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/vitalic_sourcelink": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_5": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_4": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_3": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_2": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_1": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_moss_block": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/reversed_polished_sourcestone_magelight_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/conjuration_essence_to_soul_sand": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_deepslate": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/handy_haversack": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/golden_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/walls/polished_sourcestone_wall": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/revert/cracked_sourcestone_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/magebloom_block": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/sourcestone_magelight_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_chain_1": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_chain_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/red_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_awakening": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/mimic_scroll": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/red_sbed": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/redstone_relay": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/source_jar": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/mundane_belt": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/challenge_2": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_instrumentum:recipes/misc/scroll_of_save_starbuncle": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_instrumentum:recipes/misc/runic_storage_stone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/item_detector": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ghostweave": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_vexing_sapling": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_large_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/purple_sbed": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourceberry_sack": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_blazin_sapling": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/building_blocks/stripped_yellow_archwood": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/golden_magelight_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/arcane_pedestal": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/fire_essence_to_charge": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/wayfinder": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/clear_handy_haversack": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_scrying": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_instrumentum:recipes/misc/arcane_applicator": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/chains/archwood_chain": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/walls/sourcestone_wall": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/clear_allow": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_instrumentum:recipes/misc/runic_storage_stone_alternate": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/decorations/crafting/stonecutter/polished_sourcestone_trapdoor_0": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/doors/polished_sourcestone_door": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/tablet_ritual_squirrels": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/stripped_purple_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/walls/cracked_polished_sourcestone_wall": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/repository": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/deny_scroll": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_mosaic_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/blue_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/revert/cracked_sourcestone_small_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/buttons/polished_sourcestone_button": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/basic_spell_turret": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/tablet_ritual_detection": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_harvest": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/scryers_crystal": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/revert/cracked_sourcestone_large_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_basketweave_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/dowsing_rod": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/stripped_blue_archwood_wood": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sky_block": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/blank_thread": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/archwood_sconce": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/tablet_ritual_attraction": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_small_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/allow_scroll": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wilden_summon_alt": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_alternating_slab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/walls/cracked_sourcestone_wall": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/ritual_wilden_summon": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_additions:recipes/misc/crafting/lanterns/reversed_sourcestone_magelight_lantern": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/mirrorweave": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/magebloom_to_pink": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_elemental:recipes/misc/flight_alt": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/agronomic_sourcelink": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-07-01 07:39:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2025-07-01 08:45:07 -0400",
+      "minecraft:river": "2025-07-01 08:17:19 -0400",
+      "minecraft:snowy_plains": "2025-07-01 08:46:37 -0400",
+      "minecraft:cold_ocean": "2025-07-01 07:46:41 -0400",
+      "minecraft:forest": "2025-07-01 07:39:09 -0400"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-01 07:42:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-01 07:42:49 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-07-01 07:46:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-01 07:51:45 -0400"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/architectscutter": {
+    "criteria": {
+      "has_log": "2025-07-01 07:51:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-01 07:51:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-01 07:51:45 -0400"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-07-01 07:52:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-01 07:52:19 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-07-01 07:54:19 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_helmet": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_leggings": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_chestplate": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_boots": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/white_floating_carpet": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockconstructiontape": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-07-01 07:55:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_onside": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_standing": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-07-01 07:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-01 07:56:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-07-01 07:56:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-01 08:54:47 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/pattern": {
+    "criteria": {
+      "has_item": "2025-07-01 08:54:47 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_helmet": {
+    "criteria": {
+      "has_leaves": "2025-07-01 08:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-01 08:54:47 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-07-01 09:28:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-01 08:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-01 08:24:00 -0400"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/lead_flux_capacitor": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-01 08:43:14 -0400"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/lead_circuit": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-01 08:43:14 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-01 08:54:47 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "field": "2025-07-01 08:40:25 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-01 08:54:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-01 08:54:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-01 08:54:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-01 08:54:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/veggie_soup": {
+    "criteria": {
+      "has_eggplant": "2025-07-01 09:18:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-01 09:31:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-01 08:41:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-01 08:41:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-01 08:54:47 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-07-01 09:18:58 -0400"
+    },
+    "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "aether:skyroot_forest": "2025-07-01 09:18:59 -0400"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_boots": {
+    "criteria": {
+      "has_leaves": "2025-07-01 08:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-07-01 08:33:55 -0400",
+      "rotten_flesh": "2025-07-01 08:35:22 -0400",
+      "carrot": "2025-07-01 09:34:01 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-07-01 09:35:54 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-01 09:31:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-01 09:14:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-01 09:14:31 -0400"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-07-01 09:18:58 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/wheat_extra": {
+    "criteria": {
+      "has_material": "2025-07-01 09:14:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-01 08:54:47 -0400"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cobblestone_extra": {
+    "criteria": {
+      "has_material": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-01 08:54:47 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "alienevo:galvan_capsule": {
+    "criteria": {
+      "find_galvan_capsule": "2025-07-01 08:41:30 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crank": {
+    "criteria": {
+      "has_stick": "2025-07-01 08:54:47 -0400"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/blue_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-07-01 08:11:24 -0400"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/shapetool": {
+    "criteria": {
+      "has_stick": "2025-07-01 08:54:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "field": "2025-07-01 08:40:25 -0400",
+      "overgrown_greens": "2025-07-01 09:01:38 -0400",
+      "coniferous_forest": "2025-07-01 08:40:45 -0400",
+      "spider_nest": "2025-07-01 08:50:06 -0400",
+      "snowy_coniferous_forest": "2025-07-01 08:55:13 -0400",
+      "snowy_fir_clearing": "2025-07-01 08:45:15 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-01 09:38:09 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_leggings": {
+    "criteria": {
+      "has_leaves": "2025-07-01 08:15:36 -0400"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/green_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_chestplate": {
+    "criteria": {
+      "has_leaves": "2025-07-01 08:15:36 -0400"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-01 08:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-01 09:14:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-01 08:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-01 08:54:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-01 08:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "palladium:recipes/building_blocks/lead_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-01 08:43:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/purple_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2025-07-01 08:55:52 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
